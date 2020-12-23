@@ -4,4 +4,4 @@ JavaScript-Course-Code-With-Mosh Exercises
 link
 1. kldjf;lajf
 2. lkj;lkjk;
-[link](www.facebook.com)
+[link](https://www.facebook.com)
